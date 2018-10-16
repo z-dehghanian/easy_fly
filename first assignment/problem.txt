@@ -1,0 +1,17 @@
+Answer the following questions:
+
+ 1- Name all the stake holders  in a typical   project  to develop an Information System.
+
+2- What is Software Architecture?
+
+3- Name the three main building blocks of an Information System.
+
+4- Who is a system Analysis? What are his duties?
+
+5- What is time boxing?
+
+6- What is use case modeling?
+
+7- What is operational feasibility?
+
+ 

@@ -1,0 +1,44 @@
+Answer the following questions: 
+
+Chapter 3
+
+3.1 Reread “The Manifesto for Agile Software Development” at the beginning of this chapter. Can you think of a situation in which one or more of the four “values” could get a software team into trouble?
+
+3.3 Why does an iterative process make it easier to manage change? Is every agile process discussed in this chapter iterative? Is it possible to complete a project in just one iteration and still be agile? Explain your answers.
+
+3.5 Try to come up with one more “agility principle” that would help a software engineering team become even more maneuverable.
+
+3.7 Why do requirements change so much? After all, don’t people know what they want?
+
+3.9 Write an XP user story that describes the “favorite places” or “bookmarks” feature available on most Web browsers.
+
+3.11 Describe the XP concepts of refactoring and pair programming in your own words.
+
+3.13 Do the 80 percent rule in DSDM and the time-boxing approach defined for ASD achieve
+
+the same result?
+
+3.15 Why is Crystal called a family of agile methods?
+
+
+ 
+
+Chapter 4
+
+4.1 Since a focus on quality demands resources and time, is it possible to be agile and still
+
+maintain a quality focus?
+
+4.3 Describe the concept of separation of concerns in your own words.
+
+4.5 Do some research on “facilitation” for the communication activity (use the references provided or others) and prepare a set of guidelines that focus solely on facilitation.
+
+4.7 Why is it necessary to “move on”?
+
+4.9 Describe what granularity means in the context of a project schedule.
+
+4.11 What three “domains” are considered during requirements modeling?
+
+4.13 What is a successful test?
+
+4.15 Why is feedback important to the software team?
